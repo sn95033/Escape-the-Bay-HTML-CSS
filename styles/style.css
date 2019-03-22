@@ -1,0 +1,27 @@
+*
+ First External CSS Stylesheet
+ */
+
+/* Styling for HTML elements 
+
+Selecting elements by ID */
+#summary-left
+ {
+  float: left;
+}
+
+#summary-right
+ {
+  float: right;
+}
+
+#figure {
+  position: relative;
+}
+
+#summary-text {
+  font: black;
+  font-size: 18px;
+  font-weight: bolder;
+}
+
